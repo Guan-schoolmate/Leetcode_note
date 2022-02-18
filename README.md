@@ -4,7 +4,7 @@
 
 ### 数据结构：
 
-#### [·链表](https://github.com/Guan-schoolmate/Leetcode_note/blob/main/LeetCode_note.md)
+#### [·链表](https://github.com/Guan-schoolmate/Leetcode_note/blob/main/LinkList_c.md)
 #### [·树]
 #### [·栈和队列]
 
