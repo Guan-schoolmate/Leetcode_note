@@ -19,3 +19,9 @@
 ## [面试问题汇总](https://blog.csdn.net/qq_41638851/article/details/114383641?spm=1001.2101.3001.6650.6&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6.queryctrv4&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-6.queryctrv4&utm_relevant_index=8)
 
 ## [复试知识点](https://blog.csdn.net/weixin_42277902/article/details/115557129?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164637712916780366553334%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=164637712916780366553334&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-17-115557129.pc_search_insert_ulrmf&utm_term=%E5%8C%97%E9%82%AE%E5%A4%8D%E8%AF%95%E9%9D%A2%E8%AF%95&spm=1018.2226.3001.4187)
+
+## [408调剂](https://www.zhihu.com/question/56187436)
+
+## [项目1](https://blog.csdn.net/mrhjlong/article/details/79872651?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164661740616781683956114%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=164661740616781683956114&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~rank_v31_ecpm-26-79872651.pc_search_insert_ulrmf&utm_term=%E5%B1%80%E5%9F%9F%E7%BD%91%E8%81%8A%E5%A4%A9%E5%A5%97%E6%8E%A5%E5%AD%97&spm=1018.2226.3001.4187)
+
+## [项目2](https://www.writebug.com/git/codes?owner=TFBOYSer&repo=TCP_socket_LAN_chat_room)
