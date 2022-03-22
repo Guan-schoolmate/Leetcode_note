@@ -29,3 +29,5 @@
 ## [项目2](https://www.writebug.com/git/codes?owner=TFBOYSer&repo=TCP_socket_LAN_chat_room)
 
 ## [数据库复试](https://blog.csdn.net/zsheng_/article/details/105654588?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164696702516780366575328%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164696702516780366575328&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-105654588.es_vector_control_group&utm_term=%E6%95%B0%E6%8D%AE%E5%BA%93%E5%A4%8D%E8%AF%95&spm=1018.2226.3001.4187)
+
+## [软件工程](https://blog.csdn.net/sanhewuyang/article/details/87934671?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164796076016782089329708%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164796076016782089329708&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-87934671.142^v3^pc_search_result_control_group,143^v4^control&utm_term=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E5%AF%BC%E8%AE%BA&spm=1018.2226.3001.4187)
