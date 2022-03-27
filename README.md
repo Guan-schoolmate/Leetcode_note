@@ -35,3 +35,5 @@
 ## [信息安全概论](https://blog.csdn.net/qq_45743100/article/details/111876227?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164830040916782248559522%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164830040916782248559522&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-111876227.142^v5^pc_search_result_control_group,143^v6^control&utm_term=%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%A6%82%E8%AE%BA&spm=1018.2226.3001.4187)
 
 ## [网安复试笔记](https://blog.csdn.net/weixin_42277902/article/details/115557129?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_default&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7ECTRLIST%7ERate-2.pc_relevant_default&utm_relevant_index=4)
+
+## [网安与密码学课后题](https://blog.csdn.net/qq_41638851/article/details/115316442?utm_source=app&app_version=5.2.1&code=app_1562916241&uLinkId=usr1mkqgl919blen)
